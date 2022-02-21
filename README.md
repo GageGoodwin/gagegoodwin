@@ -10,7 +10,7 @@
 - :wrench: I’m currently working on Enterprise API development and Integration solutions
 - :pencil2: I’m currently learning Mulesoft and Spring
 - 💬 Ask me about Chicago and my CS/Development Journey
-- :mag: Interested in learning more about Defi and Blockchain development
+- :mag: Interested in learning more about DeFi and Blockchain development
 - :wave: Lets connect: [https://www.gagegoodwin.com/](https://www.gagegoodwin.com/)
 #### I personally find purpose in the pursuit of solving complex problems and striving to make the solutions to those problems simple. Thus I leave you with one of my favorite quotes.
 
